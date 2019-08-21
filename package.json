@@ -1,5 +1,5 @@
 {
-  "name": "TODO",
+  "name": "todo",
   "description": "TODO",
   "version": "0.0.1",
   "scripts": {
@@ -37,5 +37,20 @@
     "sapper": "^0.27.0",
     "svelte": "^3.0.0",
     "svelte-preprocess": "^2.15.1"
-  }
+  },
+   "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RudySchockaert-EngieIT/sapper-bulma-rollup-template.git"
+  },
+  "keywords": [
+    "svelte",
+    "sapper",
+    "bulma"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RudySchockaert-EngieIT/sapper-bulma-rollup-template/issues"
+  },
+  "homepage": "https://github.com/RudySchockaert-EngieIT/sapper-bulma-rollup-template#readme"
 }
