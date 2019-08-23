@@ -5,7 +5,7 @@
 </script>
 
 <style global lang="scss">
-	@import '../style/main.sccs';
+	@import '../style/main.scss';
 	main {
 		position: relative;
 		max-width: 56em;
